@@ -1,0 +1,12 @@
+{
+  "name": "paas-demo-app",
+  "version": "1.0.0",
+  "description": "My first Node.js application using Express for PaaS deployment.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
